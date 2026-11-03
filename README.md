@@ -1,17 +1,18 @@
 # Production-Grade Retrieval-Augmented Generation (RAG) & Hallucination Auditor
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-nlp-intelligence-platform-avijeet.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Vector Engine](https://img.shields.io/badge/FAISS-IndexFlatIP-orange.svg?logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![LLM Engine](https://img.shields.io/badge/Gemini-1.5%20Flash-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
+[![LLM Engine](https://img.shields.io/badge/Gemini-3.5%20Flash-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Embedder](https://img.shields.io/badge/Embedder-MiniLM--L6--v2-green.svg)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI%20v0.110-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Dataset](https://img.shields.io/badge/Dataset-Stanford%20SQuAD%202.0-red.svg)](https://rajpurkar.github.io/SQuAD-explorer/)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-11%2F11%20Passed-brightgreen.svg)]()
 
 > **Google Data Scientist Portfolio Project #3**  
 > **Author:** Avijeet Tiwari ([@AvijeetTiwari3](https://github.com/AvijeetTiwari3))  
+> **Live Interactive Dashboard:** [https://rag-nlp-intelligence-platform-avijeet.streamlit.app](https://rag-nlp-intelligence-platform-avijeet.streamlit.app)  
 > **Dataset Integrity:** **100% Authentic Wikipedia Corpus (SQuAD 2.0)** — **Zero Synthetic / Dummy Data**
 
 ---
