@@ -16,7 +16,7 @@ async def health_check():
     return HealthResponse(
         status="healthy" if pipeline else "degraded",
         version="1.0.0",
-        model="gemini-1.5-flash",
+        model="gemini-3.5-flash",
         corpus_size=4039,
         index_loaded=pipeline is not None,
     )

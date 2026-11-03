@@ -55,7 +55,7 @@ class RAGPipeline:
         self,
         api_key: str,
         model_name: str = "sentence-transformers/all-MiniLM-L6-v2",
-        gemini_model: str = "gemini-1.5-flash",
+        gemini_model: str = "gemini-3.5-flash",
         top_k: int = 5,
         faiss_index_path: Optional[str] = None,
         faiss_meta_path: Optional[str] = None,

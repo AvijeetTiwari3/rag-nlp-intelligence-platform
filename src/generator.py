@@ -64,7 +64,7 @@ class GeminiGenerator:
     def __init__(
         self,
         api_key: str,
-        model_name: str = "gemini-1.5-flash",
+        model_name: str = "gemini-3.5-flash",
         temperature: float = 0.1,
         max_output_tokens: int = 512,
         top_p: float = 0.95,

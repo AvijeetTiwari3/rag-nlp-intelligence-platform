@@ -112,7 +112,7 @@ with st.sidebar:
     **Dataset:** SQuAD 2.0 (130K+ QA pairs)  
     **Corpus:** 4,039 Wikipedia chunks  
     **Embedder:** MiniLM-L6-v2 (384-dim)  
-    **Generator:** Gemini 1.5 Flash  
+    **Generator:** Gemini 3.5 Flash  
     **Vector DB:** FAISS IndexFlatIP  
     """)
     st.markdown("---")
