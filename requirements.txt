@@ -1,0 +1,28 @@
+# Core Scientific & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+pyarrow>=12.0.0
+scipy>=1.10.0
+pyyaml>=6.0
+
+# NLP & Machine Learning
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+faiss-cpu>=1.8.0
+datasets>=2.19.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# GenAI SDK
+google-genai>=2.0.0
+
+# Production API & Web Dashboard
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+streamlit>=1.35.0
+plotly>=5.20.0
+httpx>=0.27.0
+
+# Testing & Quality
+pytest>=8.0.0

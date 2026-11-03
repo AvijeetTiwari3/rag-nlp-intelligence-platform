@@ -1,0 +1,22 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+venv/
+env/
+.env
+
+# Large raw parquet datasets (processed corpus and evaluation golden set are tracked)
+data/raw/squad_v2_train.parquet
+data/raw/squad_v2_val.parquet
+data/raw/agnews_train.parquet
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
